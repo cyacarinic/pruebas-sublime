@@ -8,3 +8,6 @@ def on_post(req, resp):
     else:
         print "something to do on NO POST"
         print "end"
+
+
+EOF
