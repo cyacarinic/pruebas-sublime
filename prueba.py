@@ -7,4 +7,3 @@ def on_post(req, resp):
         print dateutil.dateutil.now()
     else:
         print "something to do on NO POST"
-        print "fin"
